@@ -1,0 +1,13 @@
+{
+  "name": "wa-gateway-taklimda",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "axios": "^1.6.8",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
